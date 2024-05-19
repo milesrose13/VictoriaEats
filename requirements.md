@@ -1,0 +1,14 @@
+initial requirements:
+    -View restaurants
+	  -View restaurant’s menu of dishes
+    -Search for restaurant by name
+		-Search for restaurants matching certain criteria(location, rating, tags, menu item)
+		-View restaurants reviews
+		-View specific dish reviews
+		-Upvote/downvote restaurant reviews
+		-Create review (Includes rating dish and restaurant overall, adding tags)
+		-Delete review
+		-Edit review
+		-Search users
+		-View a users reviews
+    -Admin class able to edit/delete any restaurant, dish, user, or review fields. 
