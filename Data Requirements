@@ -1,0 +1,21 @@
+Restaurants:
+  Name
+  Id
+  Dishes:
+    Dish name
+    Dish id
+    Dish ratings
+    Dish reviews
+  Location
+  Type of Cuisine
+  Metadata (description)
+  Restaurant ratings
+  Restaurant reviews
+Users:
+  Name
+  Id
+  Bio
+  User ratings
+  User reviews
+  Who is admin
+
