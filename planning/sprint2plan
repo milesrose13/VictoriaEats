@@ -1,1 +1,5 @@
-gfdsgfsdg
+1. create ERD's for our system 
+2. update requirements based off what we found throughout creating ERD's
+3. create database schema in line with the RDBMS module using SQL DDL code
+4. create mock data to test querying our database with SQL DQL code
+5. research ways to obtain Victorian restauraunt data
