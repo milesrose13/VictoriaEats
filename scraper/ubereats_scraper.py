@@ -42,6 +42,19 @@ def write_restaurants_to_csv(restaurants, filename):
         # Write the restaurant data
         for restaurant in restaurants:
             writer.writerow([restaurant.id, restaurant.name, restaurant.description, restaurant.address, restaurant.city, restaurant.created_on])
+            
+def write_menu_items_to_csv(menu_items, filename):
+    header = ['restaurant', 'dish_name', 'description', 'price']
+    
+    with open(filename, mode='w', newline='', encoding='utf-8') as file:
+        writer = csv.writer(file)
+        
+        # Write the header
+        writer.writerow(header)
+        
+        # Write the menu item data
+        for item in menu_items:
+            writer.writerow([item.restaurant, item.name, item.description, item.price])
 
 def clean_text(text):
     # Replace problematic characters with a placeholder
@@ -110,7 +123,7 @@ def get_restaurant_names_with_menu_urls(url: str) -> list[VictoriaRestaurants]:
         restaurant = VictoriaRestaurants(id, clean_name, description, address, date_added_to_db, menu_urls[url_index])
         restaurants.append(restaurant)
         url_index += 1
-        print(descriptions_and_addresses_index)
+        # print(descriptions_and_addresses_index)
         
     return restaurants
 
@@ -143,7 +156,6 @@ def extract_menu_items(restaurants_metadata: list[VictoriaRestaurants]):
             
             menu_item = MenuItems(restaurant_name, dish_name, description_text, price)
             menu_items.append(menu_item)
-            # print(menu_item)
     
     return menu_items
   
@@ -168,8 +180,8 @@ def main():
     write_restaurants_to_csv(vic_restaurants, 'ubereats_restaurants.csv')
     pretty_print(vic_restaurants)
     menu_items = extract_menu_items(vic_restaurants)
-    print(len(menu_items))
     pretty_print_menu_items(menu_items)
+    write_menu_items_to_csv(menu_items, 'all_restaurant_menu_items.csv')
     
         
     
