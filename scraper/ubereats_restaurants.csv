@@ -1,79 +1,66 @@
 restaurant_id,name,description,address,city,created_on
-0,Bin 4 Burger Lounge (Yates St),"Burger lounge in Harris Green with a selection of burgers, cider, and cocktails. Favourites include Bin 4 the Heritage and Bin 11 Wild Mushroom.","911 Yates Street, 180, Victoria, BC V8V4X3",Victoria,2024-06-16
-1,Big Wheel Burger (Cook St),,"341 Cook Street, Victoria, NAMER V8V 3X8",Victoria,2024-06-16
-2,Chicken 649,"Hillside spot for premium chicken, sandwiches, and a selection of beers. Favourites include Half and Half Chicken, 649 Original Chicken.","2224 Quadra St, Victoria, NAMER V8T 4C6",Victoria,2024-06-16
-3,Hi Five Chicken (Victoria),"Chinatown spot for chicken meals, sandwiches, wraps, and desserts. Favourites include Chicken, Drumsticks, Wings.","1483 Douglas Street, 104, Victoria, BC V8K3w4",Victoria,2024-06-16
-4,Freshslice Pizza (1609 Douglas Street),,"1609 Douglas Street, Victoria, Bc, Ca, V8w 2g5, ",Victoria,2024-06-16
-5,Burger Crush,"Burger joint in Downtown with a variety of cheeseburgers, vegan options, and milkshakes. Favourites include Single Cheeseburger and Chocolate Milk Shake.","787 Fort St, Victoria, NAMER V8T 3N8",Victoria,2024-06-16
-6,Thunderbird Korean Fried Chicken,"Korean fried chicken spot in Fairfield with burgers, popcorn chicken, and unique sauces. Favourites include Yang-Nyeom and Megan Burger.","253 Cook St, Victoria, BC V8V 3X4",Victoria,2024-06-16
-7,Papa John's Pizza (1885 Fort St.),"South Jubilee pizza spot with papadias, epic stuffed crusts, papa bowls, and sides. Favourites include Pepperoni Pizza, BBQ Chicken Bacon Pizza.","1885 Fort St, Victoria, BC V8R 1K1",Victoria,2024-06-16
-8,Tractor Foods (Victoria),"Health-focused eatery in Downtown with bowls, salads, and market sides. Favourites include Nourish Bowl, Everyday Bowl.","805 Government Street, Victoria, BC V8W",Victoria,2024-06-16
-9,L'Authentique Poutine and Burgers,Downtown spot with poutines and burgers. Favourites include Classic Poutine and Bacon Cheeseburger.,"1208 Warf St., 100, Victoria, BC V8w1t9",Victoria,2024-06-16
-10,Panago Pizza (Downtown Victoria),"Pizza spot in Harris Green with a variety of meat, veggie, and gluten-smart options. Favourites include Hawaiian and New York Deli.","1575 Vancouver St , Victoria, BC V8v0c8",Victoria,2024-06-16
-11,Local Pizza (1483 Douglas St),"Chinatown pizza joint with custom and specialty pies. Favourites include Your Pizza Your Way, BBQ Chicken.","1483 Douglas Street, #105, Victoria, NAMER V8W 3K4",Victoria,2024-06-16
-12,Second Slice Pizza (1322 Douglas St),"Chinatown pizza spot with gourmet and create-your-own options. Popular for Cheese Slice, Pepperoni Feast.","1322 Douglas St, Victoria, BC V8W 2E8",Victoria,2024-06-16
-13,Smile Chicken,Downtown fried chicken spot with homemade sauces and a variety of sides. Favourites include Seasoned Chicken Mix.,"1001 Douglas St, Victoria, BC V8W 2C5",Victoria,2024-06-16
-14,Chimac Korean Pub & Fried Chicken,"Korean pub in Downtown with fried chicken, spicy udon, and pork belly. Favourites include Garlic Soy, Spicy Chili, Original.","512 Yates St, Victoria, NAMER V8W 2Z6",Victoria,2024-06-16
-15,Crispy Classic Chicken (1327 Douglas St. & Johnson),,"1327 Douglas St, Victoria, BC V8W 2E9",Victoria,2024-06-16
-16,Burger King (910 Government Street),"Chain in Downtown offering flame-grilled burgers, chicken options, and shakes. Favourites include Whopper With Cheese Meal.","910 Government Street, Victoria, BC V8W",Victoria,2024-06-16
-17,Prinkle Chicken (Vancouver island),"Hillside spot for fried chicken, sides, and Korean street food. Favourites include Half and Half Chicken, Prinkle Fries.","999 Hillside Avenue, Victoria, BC V8T1Z9",Victoria,2024-06-16
-18,"Boardwalk Fries, Burgers and Shakes (Victoria)","Downtown burger joint with signature fries, salads, platters, and milkshakes. Favourites include BBQ Cheddar Bacon Burger and Mushroom Swiss Burger.","1150 Douglas Street, 228C, Victoria, BC V8W3M9",Victoria,2024-06-16
-19,Domino's Pizza (1-770 Bay Street),,"1-770 Bay Street, Victoria, NAMER V8T5E4",Victoria,2024-06-16
-20,70ees Pizza,"Chinatown pizza joint with seafood, classic, and vegan pizzas. Cheesy Garlic Breadstick, Large Pizza, Meat Lover favourites.","1680 Douglas Street, Victoria, NAMER V8W 2G6",Victoria,2024-06-16
-21,Fern Cafe and Bakery,"Cafe and bakery in Harris Green with breakfast options, burgers, and baked goods. Favourites include Breakfast Sandwich and Daily Doughnut.","1115 N Park St, Victoria, BC V8T 1C7",Victoria,2024-06-16
-22,Superior Pizza,"Pizza spot in James Bay serving calzones, wings, and salads. Favourites include Pepperoni Pizza and Hawaiian Pizza.","455 Simcoe, Victoria, BC V8V 4T3",Victoria,2024-06-16
-23,The Art of Slow Food,"Chinatown bakery with sourdough treats, breakfast items, and pizza. Favourites include Scone, Sourdough Cinnabun, Mindful Carnivore.","780 Fisgard St, 140, Victoria, BC V8W0E1",Victoria,2024-06-16
-24,Old Farm Sandwiches,Uplands sandwich spot with meat and veggie options. Meat Sandwich and Veggie Sandwich are favourites.,"2585 Cadboro Bay Rd, Oak Bay, BC V8R 5J1",Victoria,2024-06-16
-25,Good Ovening Korean Pub and Roasted Chicken,"Korean-inspired eatery in Downtown with oven-roasted chicken, stews, and churros. Popular for Soy Garlic Chicken, Pork Kimchi Stew.","799 Fort St, Victoria, BC V8W 1G9",Victoria,2024-06-16
-26,Morning People Food Truck,"Fairfield food truck with fresh drinks, baked goods, and hearty mains. Favourites include Loaded, Smashed Hash, Wake N' Bacon.","325 Cook St, Victoria, BC V8V 3X5",Victoria,2024-06-16
-27,Ohana Sushi,"Chinatown eatery with udon, rolls, bento boxes, and sashimi. Favourites include Miso Soup, Tray A, California Roll.","513fisgard St, Victoria, BC V8W 1R4",Victoria,2024-06-16
-28,Pizza Hut (#182-911 Yates Street),"Pizza chain in Harris Green with pasta, flatbreads, and various-sized pizzas. Favourites are Melt My Box and Boneless Bites.","#182-911 Yates Street, Chilliwack, BC V8V 4X3",Victoria,2024-06-16
-29,Villages Pizza (Oak Bay),"South Jubilee pizza spot with calzones, wings, salads, and more. Favourites include Pepperoni Pizza, Calzone, Hawaiian Pizza.","2016 Oak Bay Avenue Victoria, Bc V8r 1e4 Canada, ",Victoria,2024-06-16
-30,Wendy's (776 Bay Street),"Chain in Chinatown with cheeseburgers, breakfast items, and frosty treats. Favourites include Jr. Bacon Cheeseburger, Spicy Chicken Sandwich.","776 Bay Street, Victoria, BC V8T 1R1",Victoria,2024-06-16
-31,COBS Bread Bakery (Harris Green),"Bakery in Harris Green specializing in loaves, pastries, and scones. Favourites include Ham & Cheese Croissant.","Unit 140a - 911 Yates Street, Victoria, NAMER V8V 4X3",Victoria,2024-06-16
-32,SH91 Dessert,Dessert spot in Harris Green with Japanese-inspired treats. Favourites include Strawberry Banana Egg Bubble Waffle and Oreo Mochi Milk Tea.,"759 Yates St, Victoria, BC V8V 3M2",Victoria,2024-06-16
-33,Mary Brown's Chicken (100 Aldersmith Pl.),Fried chicken joint in Victoria West with popular Big Mary Sandwich and Medium Pop-Ins.,"100 Aldersmith Place Victoria, Bc V9a 7m8 Canada, ",Victoria,2024-06-16
-34,Palagio Pizza,"Burnside pizza spot with gourmet pizzas & poutines. Favourites include Perogie Style Pizza, Chicken Bacon Ranch Poutine.","2950 Douglas Street, 165, Victoria, BC V8T 4N4",Victoria,2024-06-16
-35,Varsha Indian Kitchen,"Indian eatery in Chinatown serving curries, biryanis, and fusion fare. Favourites include Butter Chicken and Palak Paneer.","1600 Government Street, Victoria, BC V8W",Victoria,2024-06-16
-36,Pho Tru (Blanshard St),"Vietnamese eatery in Downtown serving vermicelli bowls, pho, and rice plates. Favourites include Spicy Lemongrass Beef Pho.","1012 Blanshard St, Victoria, BC V8T 2M1",Victoria,2024-06-16
-37,Pagliaccis,"Downtown eatery with steak, seafood, vegan pasta, and decadent desserts. Favourites include Hemingway Short Story, Cabinet of Dr. Cappelletti.","1011 Broad St, Victoria, BC V8W 2A1",Victoria,2024-06-16
-38,Leopold's Tavern (Victoria),"Downtown tavern with snacks, burgers, wraps, and plant-based options. Favourites include Southwest Burrito Bowl.","570 Yates Street, Victoria, BC V8W 1K8",Victoria,2024-06-16
-39,Jones Bar-B-Que (Cook),,"1725 Cook St, Victoria, BC V8T 3P4",Victoria,2024-06-16
-40,Honeybun Foods Ltd.,"Chinatown eatery with BBQ Pork Bun, Takoyaki, Szechuan Chicken Rice among top orders. Offers sushi, buns, rice dishes.","587c Bay Street Victoria,BC V8T 1P5",Victoria,2024-06-16
-41,WingStreet only at Pizza Hut (#182-911 Yates Street ),"Wing spot in Harris Green offering bites, wings, sides, and desserts. Meal for 1, Cinnabon Mini Rolls are favourites.","911 Yates St, 182, Victoria, BC V8V 4X3",Victoria,2024-06-16
-42,Top Dog Pizza,"Gourmet pizza spot with wings, gluten-free options, and salads. Favourites include Large Combo 24, Wings.","262b Island Highway, View Royal, BC V9B 1G5",Victoria,2024-06-16
-43,Dairy Queen (2350 Douglas St),"Fast food spot in Chinatown with a variety of blizzard treats, burgers, and chicken strips. Popular for Chicken Strip Basket and Bacon Two Cheese Deluxe.","2350 Douglas St, Victoria, NAMER V8T 4L7",Victoria,2024-06-16
-44,Alysa's Pho and Banh Mi Restaurant,"Hillside Vietnamese eatery with pho, banh mi, and vermicelli. Favourites include Beef Noodle Soup and Bun Bo Hue.","2630 Quadra, Victoria, BC V8T4E4",Victoria,2024-06-16
-45,Serena's Pizzeria & Hoagies,"Downtown pizzeria & hoagie joint with Pepperoni Pizza, Philly Cheesesteak.","766 Fort Street , Victoria, BC V8w1h2",Victoria,2024-06-16
-46,Ghost Ramen,"Chinatown eatery with a focus on ramen like Miso Tonkotsu, Spicy Miso Paitan, and sides. Top orders include Miso Tonkotsu.","1609 Store Street, Victoria, NAMER V8W 3K3",Victoria,2024-06-16
-47,M&M Food Market (Victoria-Tillicum),"Frozen food market in Burnside offering pies, entrees, pastas, and soups. Popular for Chicken Pot Pie.","300 Burnside Road West , Victoria, British Columbia V8Z1M1",Victoria,2024-06-16
-48,Betty Burger,"Burger joint in Downtown with dips, premium toppers, and hand-cut fries. Prime Ribeye Beef Dip Sandwich is a favourite.","1001 Wharf St, 203, Victoria, BC V8W 1T6",Victoria,2024-06-16
-49,Green Leaf Vietnamese Bistro (Douglas St),"Vietnamese bistro in Chinatown with pho, vermicelli, and rice plates. Favourites include Spicy Beef Noodle Soup, Spring Rolls.","1684 Douglas Street, Victoria, BC V8W",Victoria,2024-06-16
-50,"Pizza Pizza (#104, 345A Latoria Blvd)","Pizza spot with sandwiches, wings, and various crust options. Favourites include Large Meat Supreme, Gluten Free Pizza.","104, 345a,Latoria Blvd, Colwood, BC V9C 4L8",Victoria,2024-06-16
-51,Hot House Pizza (Gordon Head),,"4071 Shelbourne St Unit #3, Victoria, NAMER V8N 3K7",Victoria,2024-06-16
-52,Ocean Garden,,"568 Fisgard Street Victoria, B.C. V8w 1r4 Canada, ",Victoria,2024-06-16
-53,Q Pizza,"Pizza place featuring Pepperoni, Tandoori Chicken, and Veggie Lovers pizzas. Popular for Pepperoni and Smokin' Joe's.","Unit #2, 4517 W Saanich Rd Victoria, Bc V8Z",Victoria,2024-06-16
-54,Fatburger Victoria,"Burger joint in Downtown serving specialty burgers, hot dogs, and shakes. Favourites include Impossible Fatburger, BBQ Bacon Cheddar Chicken Sandwich.","1209 Douglas Street, Victoria, BC V8W 2E7",Victoria,2024-06-16
-55,Noodlebox (Douglas),"Downtown noodle spot with vegan options and main boxes. Favourites include Spicy Peanut Noodle Box, Crispy Shanghai Chicken Box.","818 Douglas Street, Victoria, BC V8W",Victoria,2024-06-16
-56,Cinnzeo Bakery Cafe (Victoria),"Oaklands bakery cafe with cinnamon rolls, caramel apple rolls, and pecan rolls.","1644 Hillside Avenue, Victoria, BC V8T 2C5",Victoria,2024-06-16
-57,Virtuous Pie (Pandora Ave),"Chinatown pizzeria with a variety of pizzas, pastas, and salads. Ultraviolet and Superfunghi pizzas favored.","530 Pandora Ave, Victoria, BC V8W1N6",Victoria,2024-06-16
-58,Rise and Grind,"Downtown cafe with wraps, salads, sandwiches, and lattes. Favourites include The Originator, Boss Hog, The Foghorn.","1294 Broad St, Victoria, BC V8W",Victoria,2024-06-16
-59,Victoria Pocha,"Korean eatery in Chinatown serving tteokbokki, bulgogi, and jjigae. Sundubu-Jjigae a favourite.","650 Yates , Victoria, BC V8W1L3",Victoria,2024-06-16
-60,Fernwood Pizza Company,,"2009 Fernwood Road, Victoria, BC V8T 2Y8",Victoria,2024-06-16
-61,Menbow Ramen Bar (Blanshard),"Downtown ramen bar with shoyu, miso, spicy options. Favourites include Spring Rolls, Chasyu Donburi.","1018 Blanshard Street, Victoria, British Columbia V8W 2H5",Victoria,2024-06-16
-62,Pirate Pizza Co. ,,"1 Dallas Road C1, Victoria, Ca, V8v 0b2, ",Victoria,2024-06-16
-63,Ukatsu & VicCup (Japanese Cutlet & Korean Rice Bowl),"Downtown Japanese and Korean eatery with katsu sets, bibimbap, and burgers. Favourites include Crispy Pork, Bulbogi Burger.","1008 Blanshard St, Victoria, BC V8W 2H5",Victoria,2024-06-16
-64,McDonald's (Douglas St),"Fast-food chain in Downtown with snacks, wraps, breakfast options, and desserts. Favourites include Happy Meal and Sausage 'N Egg McMuffin.","1200 Douglas Street , Victoria, BC V8W2E5",Victoria,2024-06-16
-65,Siam,"Downtown Thai eatery with seafood, curries, and chef's specials. Popular for Pad Thai and Vegetarian Spring Rolls.","512 Fort Street, Victoria, British Columbia V8W 1E6",Victoria,2024-06-16
-66,El Furniture Warehouse (Victoria),"Affordable Downtown eatery with burgers, mac & cheese, wraps, and salads. Favourites include Works Burger and Warehouse Mac & Cheese.","533 Yates St, Victoria, NAMER V8W 1K7",Victoria,2024-06-16
-67,TORO,"Downtown sushi bar with oshi combos, gyoza, omakase sashimi, and signature rolls. Favourites include Spicy Tuna Roll, Crazy Salmon.","708 View St, Victoria, BC V8W 1J8",Victoria,2024-06-16
-68,Little Thai Place(Cook st),,"1839 Cook St, Victoria, BC V8T3P5 ",Victoria,2024-06-16
-69,MOD Pizza,,"Jacklin Rd, Langford, BC V9B 3Y7",Victoria,2024-06-16
-70,Don Mee Seafood Restaurant,"Chinatown seafood restaurant with specialties, hot pot, and Szechuan dishes. Favourites include House Special Fried Rice and Beef Chow Funn.","538 Fisgard Street, Victoria, BC V8W",Victoria,2024-06-16
-71,Curry Club,"Downtown Indian eatery with butter chicken, tikka masala, biryanis, and naan. Popular for Butter Chicken.","980 Blanshard Street, Victoria, BC V8W",Victoria,2024-06-16
-72,Starbucks (Fort Street),"Chain in Downtown featuring coffees, baked goods, sandwiches, and snacks. Favourites include Caff Latte, Caramel Macchiato.","801 Fort Street, Victoria, BC V8W",Victoria,2024-06-16
-73,Shanzee's Biscuit Cafe,"Chinatown cafe known for Biscuit Benny, Trailer Jam, and Happy Campers Breakfast. Offers biscuits, burgers, breakfast items.","529 Pandora Ave, Victoria, BC V8W 1N5",Victoria,2024-06-16
-74,Cinnaholic (Victoria),"Downtown dessert shop with build-your-own rolls and signature cinnastacks. Favourites include Old Skool, Build-a-Brownie.","535 Yates St, 102, Victoria, BC V8W 1K7",Victoria,2024-06-16
-75,Xing Fu Tang  (Victoria),"Downtown bubble tea spot with a variety of milk teas, slushes, and refreshers. Signature Brown Sugar Pearl Milk, Lime Tea are favourites.","608 Broughton St, Victoria, Bc V8W",Victoria,2024-06-16
-76,Doner Delight,"Downtown eatery with doner wraps, platters, and combos. Favourites include Beef Doner Wrap, Chicken Doner Sandwich.","1280 Broad St, Victoria, BC V8W 2A5",Victoria,2024-06-16
-77,Nubo Japanese Tapas,"Japanese tapas in Chinatown with rolls, ramen, and teriyaki dishes. Favourites include Dynamite Roll, Miso, California Roll.","739 Pandora Avenue, Victoria, BC V8W 1N9",Victoria,2024-06-16
+0,Burger King (1328 Douglas Street),"Chain in Chinatown offering flame-grilled burgers, breakfast sandwiches, and sides. Favourites include Whopper With Cheese Meal, 10pc Chicken Nuggets.","1328 Douglas Street, Victoria, BC V8W 2E8",Victoria,2024-07-02
+1,The Ruby (Johnson),,"642a Johnson St, Victoria, BC V8W 1M6",Victoria,2024-07-02
+2,Subway (1324 Douglas St),"Subway in Chinatown offering subs, wraps, salads, and breakfast items. Favourites include Italian B.M.T, Turkey Breast, Steak & Cheese.","1324 Douglas Street, Victoria, BC V8W",Victoria,2024-07-02
+4,Shanzee's Biscuit Cafe,"Chinatown cafe known for Biscuit Benny, Trailer Jam, and Happy Campers Breakfast. Offers biscuits, burgers, breakfast items.","529 Pandora Ave, Victoria, BC V8W 1N5",Victoria,2024-07-02
+5,Crispy Classic Chicken (1327 Douglas St. & Johnson),,"1327 Douglas St. & Johnson, VICTORIA, BC V8W 2E9",Victoria,2024-07-02
+6,Rise and Grind,"Downtown cafe with wraps, salads, sandwiches, and lattes. Favourites include The Originator, Boss Hog, The Foghorn.","1294 Broad St, Victoria, BC V8W",Victoria,2024-07-02
+7,Castello Coffee,"Chinatown cafe with bagels, muffins, and a variety of lattes. Favourites include Belt Bagel, Cafe Latte.","1802 Douglas Street, Victoria, BC V8W",Victoria,2024-07-02
+9,Cat's Coffee & Cake,"Chinatown cafe with swiss rolls, cheesecakes, and iced beverages. Favourites include Iced Latte, Mixed Berries Tiramisu.","1213 Douglas Street, Victoria, BC V8W",Victoria,2024-07-02
+10,Yates Coffee Bar,"Chinatown coffee bar with bakery items, breakfast fare, wraps, and crunch wraps. Popular for Peanut Butter & Banana Puppy Treats.","733 Yates St, Victoria, NAMER V8W 1L6",Victoria,2024-07-02
+11,Franks Honeybun Cafe,,"605 Yates  Street , Victoria, BC V8w1l1",Victoria,2024-07-02
+12,McDonald's (Pandora),"Fast-food chain in Harris Green with burgers, wraps, and breakfast items. Big Mac and McNuggets favored.","980 Pandora Avenue, VICTORIA, BC V8V 3P3",Victoria,2024-07-02
+13,Broughton Street Deli,"Downtown deli known for Reuben, Montreal Smoked Meat Combo, Turkey Clubhouse. Offers wraps, bennys, and waffles.","648 Broughton Street, Victoria, BC V8W 1C9",Victoria,2024-07-02
+14,Wendy's (776 Bay Street),"Chain in Chinatown with cheeseburgers, breakfast items, and frosty treats. Favourites include Jr. Bacon Cheeseburger, Spicy Chicken Sandwich.","776 Bay Street, Victoria, BC V8T 1R1",Victoria,2024-07-02
+15,Tractor Foods (Victoria),"Health-focused eatery in Downtown with bowls, salads, and market sides. Favourites include Nourish Bowl, Everyday Bowl.","805 Government Street, Victoria, BC V8W",Victoria,2024-07-02
+16,COBS Bread Bakery (Harris Green),"Bakery in Harris Green specializing in loaves, pastries, and scones. Favourites include Ham & Cheese Croissant.","Unit 140a - 911 Yates Street, Victoria, NAMER V8V 4X3",Victoria,2024-07-02
+17,Denny's (Douglas St),"Chain in Rock Bay with breakfast slams, pancakes, omelettes, and skillets. Favourites include Lumberjack Slam.","2852 Douglas St, Victoria, BC V8T 4M5",Victoria,2024-07-02
+18,Tombo Eats,,"732 Yates Street, Victoria, NAMER V8W 1L4",Victoria,2024-07-02
+19,Starbucks (Fort Street),"Chain in Downtown featuring coffees, baked goods, sandwiches, and snacks. Favourites include Caff Latte, Caramel Macchiato.","801 Fort Street, Victoria, BC V8W",Victoria,2024-07-02
+20,Fern Cafe and Bakery,"Cafe and bakery in Harris Green with breakfast options, burgers, and baked goods. Favourites include Breakfast Sandwich and Daily Doughnut.","1115 N Park St, Victoria, BC V8T 1C7",Victoria,2024-07-02
+21,2% Jazz Coffee (Hillside),"Rock Bay coffee shop with whole beans, baked goods, and lunch options. Cafe Latte and Breakfast Burrito are favourites.","740 Hillside Ave #105, VICTORIA, BC V8T 1Z4",Victoria,2024-07-02
+22,White Spot (Fort St),"Diner in South Jubilee with classics like burgers, chicken dishes, and milkshakes. Favourites include The Legendary, Double Double Burger.","1871 Fort St, Victoria, BC V8R 1K1",Victoria,2024-07-02
+23,Uptown Bistro,"Bistro in Burnside with beers, wine, burgers, and all-day breakfast. Favourites include Chicken Fingers, BBQ Burger.","400 Boleskine Rd, Victoria, B.C. V8Z",Victoria,2024-07-02
+24,The Hot Dog Guys,"Hot dog joint in Burnside with poutine, breakfast wraps, and specialty dogs. Favourites include Chili Cheese Dog, The Portland."," 3170 Tillicum Road Victoria, Bc V9a 7c5, ",Victoria,2024-07-02
+26,Morning People Food Truck,"Fairfield food truck with fresh drinks, baked goods, and hearty mains. Favourites include Loaded, Smashed Hash, Wake N' Bacon.","325 Cook St, Victoria, BC V8V 3X5",Victoria,2024-07-02
+29,Bunny's Nook Kitchen,"Cozy Victoria West cafe with vegan options like breakfast sandwiches and wraps. Popular for Vegan Breakfast Sandwich, Hoisin Tofu Kimchi Wrap.","904b Esquimalt Road, Victoria, BC V9A 4M6",Victoria,2024-07-02
+30,De Dutch (Victoria),"Mayfair spot with Dutch & Canadian breakfasts, including pannekoeken and hash-n-eggs. Favourites include Pk Fruit Topping, Chocolate.","4011 Quadra St #1, Victoria, BC V8X 1K1",Victoria,2024-07-02
+31,Benjamins Cafe & Restaurant Ltd.,"Filipino cafe in Victoria West with all-day silog meals and desserts. Popular for Tapsilog, Pork Sisig Silog, Ben's Best Lumpia.","614b Grenville Ave, Victoria, BC V9A6L2 ",Victoria,2024-07-02
+32,The Hidden Gem,"Fairfield caf with bakery treats, lattes, and plant-based options. Eggmuff, Carrot Cake Cookie popular.","337 Cook Street, Unit B, Victoria, BC V8v3x5",Victoria,2024-07-02
+33,Basic Cafe,,"911 Yates St, Victoria, BC V8V 4X3",Victoria,2024-07-02
+34,Thrive & Shine,"Victoria West caf with breakfast wraps, sandwiches, salads, and treats. Favourites include Benny Wrap and Breaky Sandwich.","829 Admirals Rd, Esquimalt, BC V9a2p1",Victoria,2024-07-02
+35,Serious Coffee View Royal,"Coffee shop with vegan options, gluten-free desserts, and a variety of lattes. Favourites include Standard London Fog and Matcha Latte.","1703 Island Highway, Victoria, NAMER V9B 1J1",Victoria,2024-07-02
+36,Saigon Char-Broil(Tillicum Rd),"Vietnamese eatery in Burnside with pho, vermicelli, rice dishes, and bubble tea. Favourites include Pho, Vermicelli & Spring Rolls.","3170 Tillicum Rd, Saanich, BC V9A",Victoria,2024-07-02
+37,OEB (Victoria),,"856 Yates Street, Victoria, NAMER V8W 1N4",Victoria,2024-07-02
+38,The Village (Royal Oak),"Cafe with a selection of breakfast items, bennys, and lunch options. Favourites include Healthy Start and Red Barn Benny.","4517 W Saanich Rd,  1, BC V8Z 3G3",Victoria,2024-07-02
+40,Dragon Roll Sushi Market,"Sushi market known for Tempura Shrimp Dynamite Roll and Sunset Dragon Platter. Offers nigiri, rolls, salads.","4596 West Saanich Road, Victoria, NAMER V8Z",Victoria,2024-07-02
+42,Rhino Coffee House,"Coffee house with all-day breakfast, bowls, and housemade wraps. Favourites include Breakfast Bagel, Ultimate Wrap.","2840 Peatt Rd, Langford, BC V9B",Victoria,2024-07-02
+43,Marcelos Coffee Shop,"South Jubilee coffee shop with cakes, bubble tea, and sandwiches. Marcelo's Sandwich is a favourite.","2060 Oak Bay Ave, Victoria, BC V8r1e4",Victoria,2024-07-02
+44,Syriana Restaurant & Catering,"Middle Eastern cuisine in Victoria West with bowls, wraps, pastries, and signature teas. Favourites include Chicken Shawarma and Cheese Fatayer.","1258 Esquimalt Road, Victoria, BC V9a3p3",Victoria,2024-07-02
+45,Booster Juice (3601-3669 Shelbourne Street),"Juice bar in Mayfair with smoothies, fresh juices, and bowls. Popular for Ocean Mist, Pirate's Nectar.","3601-3669 Shelbourne St, Victoria, Bc V8P 4H1",Victoria,2024-07-02
+47,Good Earth Coffeehouse (Village Walk),"Coffeehouse in South Jubilee with espresso drinks, paninis, and baked goods. Favourites include Brewed Coffee, Bacon Breakfast Panini.","1971 Oak Bay Ave, Victoria, BC V8R 1E3",Victoria,2024-07-02
+49,Tim Hortons (3749 Shelbourne Street),,"3749 Shelbourne St, Saanich, BC V8P 5N4",Victoria,2024-07-02
+50,Mosi Acquacotta,"Market and caf with specialty milks, house blend coffee, Florentine sandwiches, and breakfast items. Favourites include Latte, Country Breakfast.","4649 W Saanich Rd, BC V8Z",Victoria,2024-07-02
+52,LOCAL Pizza - Shelbourne St,,"3949 Shelbourne St , Saanich, BC V8P4J2",Victoria,2024-07-02
+53,GREEK ON THE STREET,,"492 Bay Street , Victoria, BC V8T5H2",Victoria,2024-07-02
+54,Serious Coffee Esquimalt,Victoria West coffee shop with gluten-free treats and savory wraps. Favourites include Standard London Fog.,"1153 Esquimalt Road #27, Victoria, NAMER V9A 3N7",Victoria,2024-07-02
+56,Buffalo's World Famous Wings and Chicken Langford (3004 Merchant Way #102),,"3004 Merchant Way #102, Langford, NAMER V9B 5R1",Victoria,2024-07-02
+59,Kattia's Kitchen Authentic Mexican,,"4636 Elk Lake Dr, Saanich, BC V8Z 5M1",Victoria,2024-07-02
+60,Tonolli's Deli,"Deli with breakfast paninis, crepes, pastries, and lunch combos. Scones, Bellagio and Roma Panini are favourites.","Ca, 6991 E Saanich Rd, Victoria, NAMER V8Z",Victoria,2024-07-02
+62,Serious Coffee Sidney,"Coffee shop with a selection of espresso drinks, tea lattes, and iced beverages. Try the caramel macchiato or lemon bar.","2417 Beacon Avenue, Sidney, BC V8L1X5",Victoria,2024-07-02
+64,The Mint,Chinatown eatery with entrees like butter chicken curry and creamy pesto pasta. Favourites include Chicken Strips and Goat Cheese Salad.,"1414 Douglas Street Victoria, Bc V8w 2g1, ",Victoria,2024-07-02
+65,70ees Pizza,"Chinatown pizza joint with seafood, classic, and vegan pizzas. Cheesy Garlic Breadstick, Large Pizza, Meat Lover favourites.","1680 Douglas Street, Victoria, NAMER V8W 2G6",Victoria,2024-07-02
+66,Island Poke,Poke bowl spot in Chinatown crafting signatures like Spicy Salmon and Crunchii.,"1674 Douglas St, Victoria, BC V8W 2G6",Victoria,2024-07-02
+67,Freshslice Pizza (1609 Douglas Street),,"1609 Douglas Street, Victoria, Bc, Ca, V8w 2g5, ",Victoria,2024-07-02
+68,Green Leaf Vietnamese Bistro (Douglas St),"Vietnamese bistro in Chinatown with pho, vermicelli, and rice plates. Favourites include Spicy Beef Noodle Soup, Spring Rolls.","1684 Douglas Street, Victoria, BC V8W",Victoria,2024-07-02
+69,Hi Five Chicken (Victoria),"Chinatown spot for chicken meals, sandwiches, wraps, and desserts. Favourites include Chicken, Drumsticks, Wings.","1483 Douglas Street, 104, Victoria, BC V8K3w4",Victoria,2024-07-02
+70,Varsha Indian Kitchen,"Indian eatery in Chinatown serving curries, biryanis, and fusion fare. Favourites include Butter Chicken and Palak Paneer.","1600 Government Street, Victoria, BC V8W",Victoria,2024-07-02
+71,Dumpling Drop,"Chinatown dumpling spot with hot food, chaiyo, and frozen varieties. Favourites include Pork Belly Dumplings, Rice & Chili Oil.","556 Pandora Ave, Victoria, BC V8W",Victoria,2024-07-02
+72,Chic-K-Flare (Victoria),,"1483 Douglas Street , 104, Victoria, BC V8w3k4",Victoria,2024-07-02
+73,Indian Aroma,"Indian restaurant in Chinatown with salads, tandoori, biryani, and curries. Favourites include Garlic Cilantro Naan, Tandoori Naan Butter, Butter Chicken.","612 Fisgard Street, Victoria, BC V8W",Victoria,2024-07-02
+74,Nite Bite,,"638 Fisgard Street, Victoria, NAMER V8W 1R6",Victoria,2024-07-02
+75,Momi Noodle House,"Chinatown eatery with noodles, dumplings, and Taiwanese Chicken Popcorn. Favourites include Guilin Hot & Sour Noodle.","554 Pandora Avenue, Victoria, BC V8W 1N7",Victoria,2024-07-02
+76,Second Slice Pizza (1322 Douglas St),"Chinatown pizza spot with gourmet and create-your-own options. Popular for Cheese Slice, Pepperoni Feast.","1322 Douglas St, Victoria, BC V8W 2E8",Victoria,2024-07-02
+77,Nubo Japanese Tapas,"Japanese tapas in Chinatown with rolls, ramen, and teriyaki dishes. Favourites include Dynamite Roll, Miso, California Roll.","739 Pandora Avenue, Victoria, BC V8W 1N9",Victoria,2024-07-02
+78,Doner Delight,"Downtown eatery with doner wraps, platters, and combos. Favourites include Beef Doner Wrap, Chicken Doner Sandwich.","1280 Broad St, Victoria, BC V8W 2A5",Victoria,2024-07-02
+79,Frickin' Delights Donuts,Chinatown donut shop with a selection of assorted donuts. 6 Assorted Donuts is a favourite.,"632 Yates Street, Victoria, NAMER V8W 1L3",Victoria,2024-07-02
