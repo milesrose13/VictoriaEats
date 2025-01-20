@@ -1,2 +1,2 @@
-# csc370project
-Our restauraunt review app database project
+#  VictoriaEats
+A database of Victoria Restaurants Menu's implemented in MySQL
